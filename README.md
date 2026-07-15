@@ -38,27 +38,6 @@ a lot of usage examples are recorded there.
 
 If you have questions, please raise an [issues](https://github.com/go-rod/rod/issues)/[discussions](https://github.com/go-rod/rod/discussions) or join the [chat room][discord room].
 
-## Sponsors
-
-Rod is sponsored by many organizations and individuals, thank you for your support!
-
-Please contact [yad@ysmood.org](mailto:yad@ysmood.org) if you want to be listed here.
-
-<!-- markdownlint-disable MD033 -->
-
-<table style="border-collapse: collapse">
-  <tr>
-    <td>
-      <p>Swiftproxy</p>
-      <a href="https://www.swiftproxy.net/?ref=ysmood" target="_blank" title="Enterprise-grade residential proxies built for Rod automation and scraping workflows. Access 80M+ rotating residential IPs across 190+ countries with high anonymity, non-expiring traffic, fast sessions, and free trials. 10% discount code: PROXY90">
-        <img width="300" alt="Swiftproxy" src="https://github.com/user-attachments/assets/30f786f7-bd42-4ec9-a461-21f0f1d33cf9" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable MD033 -->
-
 ## Join us
 
 Your help is more than welcome! Even just open an issue to ask a question may greatly help others.
